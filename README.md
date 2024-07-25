@@ -1,6 +1,6 @@
-# React Calculator
+# React To-Do
 
-A simple calculator application built with React.
+A simple To-Do application built with React.
 
 ## Installation
 
