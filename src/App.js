@@ -1,13 +1,11 @@
 import React from "react";
 import "./App.css";
-import TodoList from "./ToDo";
-import ToDoTemp from "./ToDo-temp";
+import ToDo from "./ToDo";
 
 export default function App() {
   return (
     <div className="App">
-      {/* <TodoList /> */}
-      <ToDoTemp />
+      <ToDo />
     </div>
   );
 }
